@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ThangPhanCong.github.io/tic-tac-toe",
+  "homepage": "http://ThangPhanCong.github.io/tic-tac",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "react": "^16.6.3",
